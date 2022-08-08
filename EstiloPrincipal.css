@@ -1,3 +1,20 @@
-body {
+body{
     background: url(Imagenes/FondoSpotify.png);
+}
+
+h2 {
+    color: aliceblue;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: aliceblue;
+}
+
+.Trap {
+    margin: 20px;
+    width: 40%;
+    float: left;
+    background: red;
 }
